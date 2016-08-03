@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".sec-wrap").each(function(){var t=$(this).find(".content--media").outerHeight();$(this).find(".content--text").parent().height(t)})});
